@@ -11,6 +11,8 @@ The report presents an overview of the software's features and conducts an analy
 
 # Repository content:
 - Report
+- Presentation HW2-Group7.pdf
+- Video_HW2_Group7.mp4
 
 # Group members
 Guglielmo Fratticioli
